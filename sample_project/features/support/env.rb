@@ -1,5 +1,4 @@
 puts "loading env.rb"
-require 'uri'
 require 'capybara'
 require 'capybara/dsl'
 require "capybara/cucumber"
